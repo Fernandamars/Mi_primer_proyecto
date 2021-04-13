@@ -1,0 +1,9 @@
+Cuando copié la dirección url de los repositorios en una ventana de incognito, una diferente para cada repositorio, pude 
+observar diferentes cosas.
+En el repositorio que era público lo puedo visualizar perfectamente en la ventana de incognito, con la diferencia de que 
+si lo veo desde mi perfil sale la opción de configuración y desde una ventana de incognito no aparece esta opción. En el 
+repositorio privado si lo veo desde mi perfil aparece con todas las opciones, mientras que desde una ventana de incognito 
+me dice que esa no es la página que estoy buscando y hasta abajo me trae una barra de búsqueda de proyectos en GitHub.
+Cuando el repositorio es público estas dando el permiso a que todos puedan acceder a él y verlo, mientras que cuando es 
+privado estas restringiendo el acceso a él. 
+
